@@ -45,3 +45,5 @@ PRs/DMs [@Rezn0k](https://twitter.com/rezn0k) are welcome for improvements!
 - [@esheavyind](https://twitter.com/esheavyind) for help on building a PoC. Check out their writeup at: https://gist.github.com/esell/c9731a7e2c5404af7716a6810dc33e1a
 - [@LunaSecIO](https://twitter.com/LunaSecIO) for improving the documentation and exploit
 - [@rwincey](https://twitter.com/rwincey) for making the exploit replayable without requiring a Tomcat restart
+
+###
